@@ -1,0 +1,25 @@
+/* Background Image, Made Slightly Transparent in Photoshop */
+body {
+    background-image:url(http://i.imgur.com/XQL1Kce.jpg);
+}
+/* Basic Text Information For the Link */
+p {
+    color: white;
+    font-family: Trebuchet MS;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    margin: 20% 0px 0px 0px;
+    font-size: 550%;
+    text-decoration: none;
+}
+/* Link Text Code, Removes Underline and color if not visited */
+a:link {
+    color: white;
+    text-decoration: none;
+}
+/* Link Text Code, Removes Underline and color if visited */
+a:visited {
+    color: white;
+    text-decoration: none;
+}
